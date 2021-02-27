@@ -4,12 +4,9 @@ This project is a demonstration on how PHP can be used to check for the existanc
 
 > Built with HTML, CSS, SQL and PHP.
 
-> Download project and test on localhost
+> You must download this project to test it on localhost.
 
-[![GitHub release](https://img.shields.io/github/release/mogrady-git/SQL-Scripts/master)]()
-
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/HTML-Responsive-Email-Templates"> -->
-<a href="https://mogrady-git.github.io/SQL-Scripts/index.html"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/SQL-Scripts"> -->
 
 ## Installation Instructions for Testing on Localhost with Gmail
 
