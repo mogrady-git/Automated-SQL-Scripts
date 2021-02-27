@@ -4,7 +4,7 @@ This project is a demonstration on how PHP can be used to check for the existanc
 
 > Built with HTML, CSS, SQL and PHP.
 
-> You must download this project to test it on localhost.
+> You must download this project to test it on localhost and run index.php file.
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/SQL-Scripts">
 
