@@ -45,6 +45,6 @@ auth_password=your_password_here
 
 3. Save all files and restart Apache Server from the XAMPP Panel and you're ready to go!
 
-## Installation Instructions on Web Server
+## Installation Instructions on Web Server for Production Environment
 
-#### To be completed..
+- [ ] To be completed
